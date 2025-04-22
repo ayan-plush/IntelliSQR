@@ -31,7 +31,7 @@ src/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/frontend-auth-app.git
+git clone https://github.com/ayan-plush/IntelliSQR
 cd frontend
 npm install
 ```

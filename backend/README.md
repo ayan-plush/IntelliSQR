@@ -17,7 +17,7 @@ This is a simple backend API for authentication built with:
 ### 1. Clone the Repo & Install Dependencies
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ayan-plush/IntelliSQR
 cd backend
 npm install
 ```
